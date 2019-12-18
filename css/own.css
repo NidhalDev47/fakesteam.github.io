@@ -1,0 +1,24 @@
+#welcome {
+    color: rgba(253, 253, 253, 0.6);
+    font-family: Courier Prime;
+    font-size: 30px;
+    margin-top: 100px;
+    
+}
+#sp1 {
+    color: rgba(76, 184, 46, 0.8);
+}
+#nh1 {
+    font-family: Courier Prime;
+    font-size: 150px;
+    color: rgb(143, 150, 138);
+}
+#logo1 {
+    margin-left: 10px;
+    position: absolute; left: 20px; bottom: 20px;
+    height: 60px;
+    width: 60px;
+}
+.imgs {
+    border-radius: 10px;
+}
